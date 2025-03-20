@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @mikepray
-- 👀 I’m interested in distributed application design
+Hi, I'm a software engineer in Omaha, Nebraska. Find my blog on [mikepray.dev](https://mikepray.dev), or check out my [goblin-themed Roguelike!](https://github.com/mikepray/goblin-crawl). I'm here to write code and have fun.
 
 <!---
 mikepray/mikepray is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
